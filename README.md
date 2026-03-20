@@ -2,7 +2,7 @@
 
 Clone the repository:
 ```
-git clone --depth=1 https://github.com/niraletter/wallpape.git
+git clone --depth=1 https://github.com/niraletter/walls.git
 ```
 ---
 ### CTTO
